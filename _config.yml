@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown #redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# plugins:  [jekyll-paginate]
+
+# Setup
+title:            Resources for Astrophysics Pedagogy
+tagline:          "Resources for Astrophysics Pedagogy"
+description:      'Compiled teaching materials.'
+url:              https://github.com/astroteaching/astroteaching.github.io 
+
+author:
+  name:           'Ava Polzin'
+  url:            https://avapolzin.github.io
+
+# paginate:         5
+
+# Custom vars
+version:   
+
+github:
+  repo:           
