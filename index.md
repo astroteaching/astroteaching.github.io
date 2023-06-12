@@ -10,6 +10,6 @@ Resources are (roughly) organized by topic, with some materials that are applica
 
 See something missing? Find a broken link? Open an [issue](https://github.com/astroteaching/astroteaching.github.io/issues).
 
-*(Necessary disclaimer -- though it likely goes without saying, not all of these resources have been specifically vetted. Instead, they are offered here *without endorsement* for others to find and consider using.)*
+_(Necessary disclaimer -- though it likely goes without saying, not all of these resources have been specifically vetted. Instead, they are offered here **without endorsement** for others to find and consider using.)_
 
 ### This website is under construction and more will be added in the very near future!
