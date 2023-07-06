@@ -5,6 +5,9 @@ title: Computational Methods
 
 Computational methods, astrostatistics, machine learning, visualization, and general coding.
 
+## Courses
+- [Machine Learning for Physics and Astronomy](https://openlearning.flatironinstitute.org/courses/course-v1:cca+ML_01+A/about) through the CCA Flatiron Institute
+
 ## Textbooks
 - [Python for Astronomers](https://prappleizer.github.io) by Imad Pasha and Chris Agostino
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
@@ -12,13 +15,19 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions) sessions
-- Resource from [Code/Astro](https://github.com/semaphoreP/codeastro) workshops
+- Resources from [Code/Astro](https://github.com/semaphoreP/codeastro) workshops
 - Introductory tutorials from Yale's [ASTR 255/PHYS 295: Research Methods in Astrophysics](https://github.com/avapolzin/ASTR255_Fall2021) for undergraduate majors by Ava Polzin
+- Notebooks from Daniel Green's [Physics 105B: Computational Physics](https://github.com/drgreen/Phys_105B) at University of California, San Deigo
+- Notebooks from Daniel Green's [Physics 39: Scientific Computing with Python](https://github.com/drgreen/Physics_39) at UCSD
+
 
 ## Lecture Materials + Course Notes
 - Yale's senior undergraduate [ASTR 330: Scientific Computing in Astrophysics](https://astro-330.github.io/intro.html) by Imad Pasha and Marla Geha
 - Stony Brook's graduate [PHY 504: Computational Methods in Physics & Astrophysics I](https://zingale.github.io/phy504/) by Michael Zingale
 - Stony Brook's undergraduate [AST 390: Computational Astrophysics](https://zingale.github.io/computational_astrophysics/intro.html) by Michael Zingale
+- Lecture notes from Daniel Green's [Physics 105B: Computational Physics](https://www.dropbox.com/s/w787ujp0v4nxsh6/Physics_105B.pdf?dl=0) at the UCSD
+- Notes from UCSD's [Physics 39: Scientific Computing with Python](https://drgreen.github.io/Phys39-book/intro.html) by Daniel Green
+- Notebooks and materials from Viviana Acquaviva's [*Machine Learning for Physics and Astronomy*](https://press.princeton.edu/books/ebook/9780691249537/machine-learning-for-physics-and-astronomy)
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/)

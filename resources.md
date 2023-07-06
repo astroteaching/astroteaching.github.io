@@ -10,6 +10,7 @@ General astronomy (including some resources for lower level courses) and miscell
 ## Textbooks
 - OpenStax [Astronomy](https://openstax.org/details/books/astronomy-2e) textbook (first edition [here](https://openstax.org/details/books/astronomy))
 - [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html) by Martin V. Zombeck
+- [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io) (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf)) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
 
 ## Recorded Talk Series
 - [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_)
@@ -17,6 +18,7 @@ General astronomy (including some resources for lower level courses) and miscell
 - [CfA Colloquium](https://www.youtube.com/@cfacolloquium3139)
 - [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos)
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures)
+- [Virtual Astronomy Software Talks](https://vast-seminars.github.io)
 
 ## Other Resources
 - [Stellarium](https://stellarium.org), "a free open source planetarium for your computer"
