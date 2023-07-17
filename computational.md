@@ -19,6 +19,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Introductory tutorials from Yale's [ASTR 255/PHYS 295: Research Methods in Astrophysics](https://github.com/avapolzin/ASTR255_Fall2021) for undergraduate majors by Ava Polzin
 - Notebooks from Daniel Green's [Physics 105B: Computational Physics](https://github.com/drgreen/Phys_105B) at University of California, San Deigo
 - Notebooks from Daniel Green's [Physics 39: Scientific Computing with Python](https://github.com/drgreen/Physics_39) at UCSD
+- Tutorials from [Philip Mocz on Medium](https://philip-mocz.medium.com) -- *note that these are "member only", which limits how many can be accessed per month without an account*
 
 
 ## Lecture Materials + Course Notes
