@@ -12,7 +12,7 @@ High energy and gravitational wave astrophysics, and astroparticle physics.
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0) by Daniel Green
 - [Particle Acceleration at Shocks: An Introduction](https://arxiv.org/abs/2307.00284) by Damiano Caprioli
-- [A Walk-Through of AGN Country -- for the somewhat initiated!](https://arxiv.org/abs/2308.04621) by Robert R. J. Antonucci
+<!-- - [A Walk-Through of AGN Country -- for the somewhat initiated!](https://arxiv.org/abs/2308.04621) by Robert R. J. Antonucci -->
 
 ## Visualizations
 - [Gravitational wave observational coverage](https://twitter.com/AstronomyMag/status/697817041806360577) from Astronomy Magazine
