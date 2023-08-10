@@ -17,6 +17,8 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars) and [public talks](https://www.youtube.com/@CaltechAstro)
 - [CfA Colloquium](https://www.youtube.com/@cfacolloquium3139)
 - [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos)
+- [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag)
+- [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk)
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures)
 - [Virtual Astronomy Software Talks](https://vast-seminars.github.io)
 

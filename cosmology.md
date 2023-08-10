@@ -11,4 +11,5 @@ title: Cosmology
 ## Lecture Notes + Materials 
 - Yale's undergraduate [ASTR 170: Introduction to Cosmology](http://www.astro.yale.edu/vdbosch/Introduction_to_Cosmology.pdf) for non-science majors by Frank van den Bosch
 - Materials from the 2022 [Summer School on CMB Detectors and Instrumentation](https://kicp-workshops.uchicago.edu/2022-CMB-SCHOOL/presentations.php) at the University of Chicago
+- [Lecture Notes in Cosmology](https://arxiv.org/abs/1803.00070) by Oliver F. Piattella
 
