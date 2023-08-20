@@ -20,6 +20,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Notebooks from Daniel Green's [Physics 105B: Computational Physics](https://github.com/drgreen/Phys_105B) at University of California, San Deigo
 - Notebooks from Daniel Green's [Physics 39: Scientific Computing with Python](https://github.com/drgreen/Physics_39) at UCSD
 - Tutorials from [Philip Mocz on Medium](https://philip-mocz.medium.com) -- *note that these are "member only", which limits how many can be accessed per month without an account*
+- [Python tutorials](https://github.com/jbchampagne/pythontutorials/tree/master) from Jackie Champagne
 
 
 ## Lecture Materials + Course Notes
@@ -30,6 +31,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Notes from UCSD's [Physics 39: Scientific Computing with Python](https://drgreen.github.io/Phys39-book/intro.html) by Daniel Green
 - Notebooks and materials from Viviana Acquaviva's [*Machine Learning for Physics and Astronomy*](https://press.princeton.edu/books/ebook/9780691249537/machine-learning-for-physics-and-astronomy)
 - [Model Interpretability](https://github.com/alexandergagliano/InterpretabilityDemos) from the 2023 IAIFI Summer School by Alex Gagliano and Josh Speagle
+- [Practical Guidance for Bayesian Inference in Astronomy](https://arxiv.org/abs/2302.04703) -- Eadie et al. (2023)
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/)
