@@ -13,3 +13,6 @@ title: Cosmology
 - Materials from the 2022 [Summer School on CMB Detectors and Instrumentation](https://kicp-workshops.uchicago.edu/2022-CMB-SCHOOL/presentations.php) at the University of Chicago
 - [Lecture Notes in Cosmology](https://arxiv.org/abs/1803.00070) by Oliver F. Piattella
 
+## Visualizations
+- [The Hunt for Dark Matter](https://gravitational-lensing.explored.info) -- interactive gravitational lensing demo
+

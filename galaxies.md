@@ -16,3 +16,4 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 
 ## Additional Resources
 - ["A Knowledgebase for Extragalactic Astronomy and Cosmology"](https://ned.ipac.caltech.edu/level5/index.html)
+- [Galaxy formation from a timescale perspective](https://arxiv.org/abs/2309.02486) by Peter Laursen -- "aimed at non-astronomer scientists, but also of interest to students of astronomy"

@@ -27,3 +27,4 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 - Legacy Survey [viewer](https://www.legacysurvey.org/viewer)
 - [Firefly](http://firefly.rcs.northwestern.edu), an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
+- [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html) from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)
