@@ -8,23 +8,23 @@ General astronomy (including some resources for lower level courses) and miscell
 <!-- https://www.nasa.gov/content/goddard/hubble-e-books -->
 
 ## Textbooks
-- OpenStax [Astronomy](https://openstax.org/details/books/astronomy-2e) textbook (first edition [here](https://openstax.org/details/books/astronomy))
-- [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html) by Martin V. Zombeck
-- [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io) (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf)) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
+- OpenStax [Astronomy](https://openstax.org/details/books/astronomy-2e){:target="_blank"} textbook (first edition [here](https://openstax.org/details/books/astronomy){:target="_blank"})
+- [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html){:target="_blank"} by Martin V. Zombeck
+- [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"} (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf){:target="_blank"}) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
 
 ## Recorded Talk Series
-- [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_)
-- [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars) and [public talks](https://www.youtube.com/@CaltechAstro)
-- [CfA Colloquium](https://www.youtube.com/@cfacolloquium3139)
-- [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos)
-- [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag)
-- [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk)
-- [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures)
-- [Virtual Astronomy Software Talks](https://vast-seminars.github.io)
+- [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_){:target="_blank"}
+- [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars){:target="_blank"} and [public talks](https://www.youtube.com/@CaltechAstro){:target="_blank"}
+- [CfA Colloquium](https://www.youtube.com/@cfacolloquium3139){:target="_blank"}
+- [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos){:target="_blank"}
+- [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag){:target="_blank"}
+- [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk){:target="_blank"}
+- [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures){:target="_blank"}
+- [Virtual Astronomy Software Talks](https://vast-seminars.github.io){:target="_blank"}
 
 ## Other Resources
-- [Stellarium](https://stellarium.org), "a free open source planetarium for your computer"
-- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
-- Legacy Survey [viewer](https://www.legacysurvey.org/viewer)
-- [Firefly](http://firefly.rcs.northwestern.edu), an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
-- [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html) from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)
+- [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"
+- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html){:target="_blank"}
+- Legacy Survey [viewer](https://www.legacysurvey.org/viewer){:target="_blank"}
+- [Firefly](http://firefly.rcs.northwestern.edu){:target="_blank"}, an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
+- [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html){:target="_blank"} from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)

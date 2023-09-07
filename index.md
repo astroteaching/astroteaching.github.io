@@ -8,7 +8,7 @@ Many people generously share their course materials, so this site is an attempt 
 Resources are (roughly) organized by topic, with some materials that are applicable to multiple topics linked on each of the relevant pages.
 
 
-See something missing? Find a broken link? Open an [issue](https://github.com/astroteaching/astroteaching.github.io/issues).
+See something missing? Find a broken link? Open an [issue](https://github.com/astroteaching/astroteaching.github.io/issues){:target="_blank"}.
 
 _(Necessary disclaimer -- though it likely goes without saying, not all of these resources have been specifically vetted. Instead, they are offered here **without endorsement** for others to find and consider using.)_
 
