@@ -3,7 +3,7 @@ layout: page
 title: Observational Methods
 ---
 
-## Textbooks + Articles
+## Textbooks + Longer Articles
 - [Astronomical observations: a guide for allied researchers](https://astro.theoj.org/article/7651-astronomical-observations-a-guide-for-allied-researchers){:target="_blank"} by Pauline Barmby
 - [A Beginner's Guide to Working with Astronomical Data](https://astro.theoj.org/article/11638-a-beginner-s-guide-to-working-with-astronomical-data){:target="_blank"} by Markus Pössel
 
