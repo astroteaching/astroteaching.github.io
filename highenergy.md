@@ -8,6 +8,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 ## Textbooks
 - [Radiation Processes in High Energy Astrophysics](https://arxiv.org/pdf/1202.5949.pdf){:target="_blank"} by Gabriele Ghisellini
 - [The Nanohertz Gravitational Wave Astronomer](https://arxiv.org/abs/2105.13270){:target="_blank"} by Stephen R. Taylor
+- [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green

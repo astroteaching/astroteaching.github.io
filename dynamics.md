@@ -7,6 +7,9 @@ Galaxy dynamics and fluid dynamics.
 
 ## Textbooks
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org){:target="_blank"} by Jo Bovy
+- [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
+- [Introduction to Computational Astrophysical Hydrodynamcis](http://open-astrophysics-bookshelf.github.io/numerical_exercises/CompHydroTutorial.pdf){:target="_blank"} by Michael Zingale (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
+
 
 ## Lecture Slides + Materials
 - Graduate [Dynamics of Collisionless Systems](http://www.astro.yale.edu/vdbosch/Collisionless_Dynamics.pdf){:target="_blank"} from the 2005 ETH Zurich Summer Semester by Frank van den Bosch

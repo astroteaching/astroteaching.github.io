@@ -12,6 +12,9 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html){:target="_blank"} by Martin V. Zombeck
 - [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"} (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf){:target="_blank"}) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
 
+## Lecture Notes + Materials
+- [Astrophysics I](https://www.mit.edu/~iancross/8901_2019A/astrophysics_lecture_notes_2019_Crossfield.pdf){:target="_blank"} lecture notes from Ian Cross's MIT 8.901 course
+
 ## Recorded Talk Series
 - [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_){:target="_blank"}
 - [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars){:target="_blank"} and [public talks](https://www.youtube.com/@CaltechAstro){:target="_blank"}
