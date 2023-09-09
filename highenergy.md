@@ -3,7 +3,7 @@ layout: page
 title: High Energy
 ---
 
-High energy and gravitational wave astrophysics, and astroparticle physics.
+High energy and gravitational wave astrophysics, transient astrophysics, and astroparticle physics.
 
 ## Textbooks
 - [Radiation Processes in High Energy Astrophysics](https://arxiv.org/pdf/1202.5949.pdf){:target="_blank"} by Gabriele Ghisellini
