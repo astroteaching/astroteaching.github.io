@@ -32,4 +32,4 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Firefly](http://firefly.rcs.northwestern.edu){:target="_blank"}, an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
 - [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html){:target="_blank"} from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)
 - [Crash Course Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL){:target="_blank"} -- video lessons from Phil Plait
-- astrobites [Educational resources](https://astrobites.org/educational-resources/){:target="_blanks"}
+- astrobites [Educational Resources](https://astrobites.org/educational-resources/){:target="_blanks"}
