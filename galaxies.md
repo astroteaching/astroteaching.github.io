@@ -9,7 +9,7 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org){:target="_blank"} by Jo Bovy
 
 ## Tutorials + Notebooks
-- Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Paco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
+- Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
 
 ## Lecture Notes + Materials
 - Yale's graduate ASTR 610: Theory of Galaxy Formation by Frank van den Bosch -- [notes + lecture videos](https://campuspress.yale.edu/astro610/){:target="_blank"} and [just notes](http://www.astro.yale.edu/vdbosch/Theory_of_Galaxy_Formation.pdf){:target="_blank"}
