@@ -12,3 +12,4 @@ title: Observational Methods
 
 ## Visualizations
 - Interactive [interferometry explained](https://public.nrao.edu/interferometry-explained/){:target="_blank"} module by NRAO
+- [Asternoise](https://asternoise.streamlit.app){:target="_blank"} -- web app to explain/illustrate CCD noise (on [GitHub](https://github.com/juliana-karp/asternoise){:target="_blank"}) by Juliana Karp

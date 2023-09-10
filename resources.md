@@ -25,6 +25,9 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures){:target="_blank"}
 - [Virtual Astronomy Software Talks](https://vast-seminars.github.io){:target="_blank"}
 
+## Visualizations
+- [Animations](https://zingale.github.io/astro_animations/){:target="_blank"} from Michael Zingale
+
 ## Other Resources
 - [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html){:target="_blank"}
