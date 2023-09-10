@@ -31,3 +31,4 @@ General astronomy (including some resources for lower level courses) and miscell
 - Legacy Survey [viewer](https://www.legacysurvey.org/viewer){:target="_blank"}
 - [Firefly](http://firefly.rcs.northwestern.edu){:target="_blank"}, an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
 - [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html){:target="_blank"} from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)
+- [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL){:target="_blank"} -- video lessons from Phil Plait
