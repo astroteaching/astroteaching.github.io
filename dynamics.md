@@ -21,3 +21,6 @@ Galaxy dynamics and fluid dynamics.
 
 ## Visualizations
 - [@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter, [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
+
+## Other Resources
+- [GravHopper](https://gravhopper.readthedocs.io/en/latest/){:target="_blank"} by Jeremy Bailin
