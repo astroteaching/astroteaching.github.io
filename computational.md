@@ -22,6 +22,8 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Tutorials from [Philip Mocz on Medium](https://philip-mocz.medium.com){:target="_blank"} -- *note that these are "member only", which limits how many can be accessed per month without an account*
 - [Python tutorials](https://github.com/jbchampagne/pythontutorials/tree/master){:target="_blank"} from Jackie Champagne
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
+- [Scientific Computing Toolbox](https://faculty1.coloradocollege.edu/~sburns/toolbox/index.html){:target="_blank"} by Shane Burns (see also [Linear Fitting](https://faculty1.coloradocollege.edu/~sburns/LinearFitting/index.html){:target="_blank"})
+- [MacOSX Unix Tutorials](https://faculty1.coloradocollege.edu/~sburns/UnixTutorial/index.html){:target="_blank"} by Shane Burns
 
 
 ## Lecture Materials + Course Notes
