@@ -3,7 +3,7 @@ layout: page
 title: General & Misc. Astronomy
 ---
 
-General astronomy (including some resources for lower level courses) and miscellaneous materials.
+General astronomy (including some resources for lower level courses), (astro)physics education research, and miscellaneous materials.
 
 <!-- https://www.nasa.gov/content/goddard/hubble-e-books -->
 
@@ -37,3 +37,5 @@ General astronomy (including some resources for lower level courses) and miscell
 - [Crash Course Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL){:target="_blank"} -- video lessons from Phil Plait
 - astrobites [Educational Resources](https://astrobites.org/educational-resources/){:target="_blanks"}
 - [KStars](https://kstars.kde.org){:target="_blank"} deskop planetarium
+- [Astronomy Education Journal](https://astroedjournal.org/index.php/ijae/index){:target="_blank"} administered by the IAU
+- Harvard [Natural Sciences Laboratory Demonstrations](https://sciencedemonstrations.fas.harvard.edu/catalog){:target="_blank"}

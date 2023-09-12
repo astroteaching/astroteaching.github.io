@@ -13,6 +13,7 @@ title: Cosmology
 - Materials from the 2022 [Summer School on CMB Detectors and Instrumentation](https://kicp-workshops.uchicago.edu/2022-CMB-SCHOOL/presentations.php){:target="_blank"} at the University of Chicago
 - [Lecture Notes in Cosmology](https://arxiv.org/abs/1803.00070){:target="_blank"} by Oliver F. Piattella
 - [The expanding universe: an introduction](https://arxiv.org/abs/1712.10315){:target="_blank"} by Markus Pössel
+- [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
 
 ## Visualizations
 - [The Hunt for Dark Matter](https://gravitational-lensing.explored.info){:target="_blank"} -- interactive gravitational lensing demo

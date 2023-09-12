@@ -17,6 +17,9 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 - [ISM of Galaxies](https://www.youtube.com/channel/UCT4ciux-qUqo9XmOTw4FNPw){:target="_blank"} (from GISM)
 - Interstellar medium lecture notes from the University of Maryland's [ASTR 670: The ISM and Gas Dynamics](http://www.benediktdiemer.com/wp-content/uploads/astr670_ism_notes.pdf){:target="_blank"} by Benedikt Diemer
 
+## Visualizations
+- [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different view of the Milky Way using various references (may require some poking around to find all of the different maps)
+
 ## Additional Resources
 - ["A Knowledgebase for Extragalactic Astronomy and Cosmology"](https://ned.ipac.caltech.edu/level5/index.html){:target="_blank"}
 - [Galaxy formation from a timescale perspective](https://arxiv.org/abs/2309.02486){:target="_blank"} by Peter Laursen -- "aimed at non-astronomer scientists, but also of interest to students of astronomy"
