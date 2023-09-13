@@ -24,9 +24,12 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk){:target="_blank"}
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures){:target="_blank"}
 - [Virtual Astronomy Software Talks](https://vast-seminars.github.io){:target="_blank"}
+- [Space Telescope Science Institute recorded talks](https://www.youtube.com/@stsciresearch6722/featured){:target="_blank"}
 
 ## Visualizations
 - [Animations](https://zingale.github.io/astro_animations/){:target="_blank"} from Michael Zingale
+- PhET [blackbody simulator](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html){:target="_blank"}
+- [ViewSpace interactives](https://viewspace.org/interactives/unveiling_invisible_universe){:target="_blank"}
 
 ## Other Resources
 - [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"
@@ -39,3 +42,5 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [KStars](https://kstars.kde.org){:target="_blank"} deskop planetarium
 - [Astronomy Education Journal](https://astroedjournal.org/index.php/ijae/index){:target="_blank"} administered by the IAU
 - Harvard [Natural Sciences Laboratory Demonstrations](https://sciencedemonstrations.fas.harvard.edu/catalog){:target="_blank"}
+- [AstroPix](https://www.astropix.org){:target="_blank"} -- easily browsable astronomical images
+- [NASA Community College Network](https://nccn.seti.org){:target="_blank"}

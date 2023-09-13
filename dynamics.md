@@ -10,6 +10,9 @@ Galaxy dynamics and fluid dynamics.
 - [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [Introduction to Computational Astrophysical Hydrodynamcis](http://open-astrophysics-bookshelf.github.io/numerical_exercises/CompHydroTutorial.pdf){:target="_blank"} by Michael Zingale (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 
+## Tutorials + Notebooks
+- Jeremy Bailin's [Galaxy Dynamics Experiments](https://github.com/jbailinua/GalaxyDynamicsExperiments){:target="_blank"} notebooks from AY 630 at the University of Alabama
+
 
 ## Lecture Slides + Materials
 - Graduate [Dynamics of Collisionless Systems](http://www.astro.yale.edu/vdbosch/Collisionless_Dynamics.pdf){:target="_blank"} from the 2005 ETH Zurich Summer Semester by Frank van den Bosch
@@ -21,6 +24,7 @@ Galaxy dynamics and fluid dynamics.
 
 ## Visualizations
 - [@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter, [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
+- [Various N-body dynamics visualizations](https://vanderbei.princeton.edu/WebGL/nBody.html){:target="_blank"}
 
 ## Other Resources
 - [GravHopper](https://gravhopper.readthedocs.io/en/latest/){:target="_blank"} by Jeremy Bailin
