@@ -17,6 +17,8 @@ title: Cosmology
 
 ## Visualizations
 - [The Hunt for Dark Matter](https://gravitational-lensing.explored.info){:target="_blank"} -- interactive gravitational lensing demo
+- [Interactive visualizations](https://dkirkby.github.io/cosmo-demo/){:target="_blank"} by David Kirkby
+- [Video illustrations](https://www.youtube.com/playlist?list=PL7OMoi4OS2cxFlneU57--8iCOf6bESH9c){:target="_blank"} by David Kirkby
 
 ## Other Resources
 - Comprehensive site linking to [talks, lectures, notes/materials, and more](https://jrdmb.netlify.app){:target="_blank"} by @jrdmb
