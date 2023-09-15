@@ -24,7 +24,7 @@ Galaxy dynamics and fluid dynamics.
 
 ## Visualizations
 - [@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter, [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
-- [Various N-body dynamics visualizations](https://vanderbei.princeton.edu/WebGL/nBody.html){:target="_blank"}
+- [Various N-body dynamics visualizations](https://vanderbei.princeton.edu/WebGL/nBody.html){:target="_blank"} by Robert Vanderbei
 
 ## Other Resources
 - [GravHopper](https://gravhopper.readthedocs.io/en/latest/){:target="_blank"} by Jeremy Bailin
