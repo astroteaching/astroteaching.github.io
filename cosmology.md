@@ -22,3 +22,4 @@ title: Cosmology
 
 ## Other Resources
 - Comprehensive site linking to [talks, lectures, notes/materials, and more](https://jrdmb.netlify.app){:target="_blank"} by @jrdmb
+- [The IA Guide: A Breakdown of Intrinsic Alignment Formalisms](https://arxiv.org/abs/2309.08605){:target="_blank"} -- Lamman et al. (2023), an introduction to intrinsic alignment of galaxies

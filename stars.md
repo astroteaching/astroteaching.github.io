@@ -12,3 +12,4 @@ title: Stars
 - QUB's graduate PHYS 412 module [stellar structure and evolution](https://star.pst.qub.ac.uk/~sjs/teaching/stellarevol/index.html){:target="_blank"} by S. Smartt
 - [StellarStructure](https://drive.google.com/drive/folders/1XApdgc0qiLuUoI6X7o_8GHFhcUp5PtF7){:target="_blank"} by Nikolina (Niko) Šarčević
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
+- Notes and materials from UC Santa Cruz's graduate [Astronomy 220C: Advanced Stages of Stellar Evolution and Nucleosynthesis](https://www.ucolick.org/~woosley/){:target="_blank"} by Stan Woosley

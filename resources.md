@@ -44,3 +44,4 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - Harvard [Natural Sciences Laboratory Demonstrations](https://sciencedemonstrations.fas.harvard.edu/catalog){:target="_blank"}
 - [AstroPix](https://www.astropix.org){:target="_blank"} -- easily browsable astronomical images
 - [NASA Community College Network](https://nccn.seti.org){:target="_blank"}
+- [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- compilation of astronomy research talks by David Hendriks

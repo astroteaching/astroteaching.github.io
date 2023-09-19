@@ -23,3 +23,4 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 ## Additional Resources
 - ["A Knowledgebase for Extragalactic Astronomy and Cosmology"](https://ned.ipac.caltech.edu/level5/index.html){:target="_blank"}
 - [Galaxy formation from a timescale perspective](https://arxiv.org/abs/2309.02486){:target="_blank"} by Peter Laursen -- "aimed at non-astronomer scientists, but also of interest to students of astronomy"
+- [The IA Guide: A Breakdown of Intrinsic Alignment Formalisms](https://arxiv.org/abs/2309.08605){:target="_blank"} -- Lamman et al. (2023), an introduction to intrinsic alignment of galaxies
