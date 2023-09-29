@@ -7,6 +7,7 @@ title: Cosmology
 
 ## Notebooks + Tutorials
 - Materials from the [CMB Analysis Summer School](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool){:target="_blank"} by Jeff McMahon and Renée Hložek
+- Joe Zuntz's [materials](https://github.com/joezuntz/michigan){:target="_blank"} from the University of Michigan Cosmology Summer School
 
 ## Lecture Notes + Materials 
 - Yale's undergraduate [ASTR 170: Introduction to Cosmology](http://www.astro.yale.edu/vdbosch/Introduction_to_Cosmology.pdf){:target="_blank"} for non-science majors by Frank van den Bosch
