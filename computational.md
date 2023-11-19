@@ -35,6 +35,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Notebooks and materials from Viviana Acquaviva's [*Machine Learning for Physics and Astronomy*](https://press.princeton.edu/books/ebook/9780691249537/machine-learning-for-physics-and-astronomy){:target="_blank"}
 - [Model Interpretability](https://github.com/alexandergagliano/InterpretabilityDemos){:target="_blank"} from the 2023 IAIFI Summer School by Alex Gagliano and Josh Speagle
 - [Practical Guidance for Bayesian Inference in Astronomy](https://arxiv.org/abs/2302.04703){:target="_blank"} -- Eadie et al. (2023)
+- [Statistics and Machine Learning for Astronomy lecture videos](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5){:target="_blank"} and [course website](https://www.computeastro.com){:target="_blank"} for Australia National University's ASTR 4004/8008: Astronomical computing by Yuan-Sen Ting
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
