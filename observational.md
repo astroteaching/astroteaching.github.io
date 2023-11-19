@@ -12,7 +12,7 @@ title: Observational Methods
 - [PSF/far field pattern tutorial](https://github.com/McMahonCosmologyGroup/cmbInstrumentSummerSchool/blob/main/Notebook3_bonus_optics.ipynb){:target="_blank"} from the CMB Instrument Summer School by Grace Chesmore and Jeff McMahon
 - [Undergraduate research tutorials](https://www.astrowhit.com/astronomy-research-tutorial-repository){:target="_blank"} by Kate Whitaker's students
 - [Various reduction tutorials](https://learn.astropy.org){:Target="_blank"} from Astropy
-- Comapnion site to [A Practical Guide to Observational Astronomy](https://mshaneburns.github.io/ObsAstro/){:target="_blank"} by Shane Burns -- includes tutorials and examples
+- Companion site to [A Practical Guide to Observational Astronomy](https://mshaneburns.github.io/ObsAstro/){:target="_blank"} by Shane Burns -- includes tutorials and examples
 
 ## Visualizations
 - Interactive [interferometry explained](https://public.nrao.edu/interferometry-explained/){:target="_blank"} module by NRAO
