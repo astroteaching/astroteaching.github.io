@@ -7,10 +7,11 @@ General astronomy (including some resources for lower level courses), (astro)phy
 
 <!-- https://www.nasa.gov/content/goddard/hubble-e-books -->
 
-## Textbooks
+## Textbooks + Longer Articles
 - OpenStax [Astronomy](https://openstax.org/details/books/astronomy-2e){:target="_blank"} textbook (first edition [here](https://openstax.org/details/books/astronomy){:target="_blank"})
 - [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html){:target="_blank"} by Martin V. Zombeck
 - [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"} (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf){:target="_blank"}) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
+- [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org/abs/2312.04041){:target="_blank"} from SIRIUS B
 
 ## Lecture Notes + Materials
 - [Astrophysics I](https://www.mit.edu/~iancross/8901_2019A/astrophysics_lecture_notes_2019_Crossfield.pdf){:target="_blank"} lecture notes from Ian Cross's MIT 8.901 course
