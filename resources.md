@@ -31,6 +31,7 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Animations](https://zingale.github.io/astro_animations/){:target="_blank"} from Michael Zingale
 - PhET [blackbody simulator](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html){:target="_blank"}
 - [ViewSpace interactives](https://viewspace.org/interactives/unveiling_invisible_universe){:target="_blank"}
+- Various [visualizations](https://astro.unl.edu/mobile/){:target="_blank"} by Astronomy Education at the University of Nebraska-Lincoln
 
 ## Other Resources
 - [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"

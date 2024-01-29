@@ -19,6 +19,7 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 
 ## Visualizations
 - [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different view of the Milky Way using various references (may require some poking around to find all of the different maps)
+- Video of the [Lyman alpha forest](https://www.youtube.com/watch?v=6Bn7Ka0Tjjw){:target="_blank"} in an expanding universe
 
 ## Additional Resources
 - ["A Knowledgebase for Extragalactic Astronomy and Cosmology"](https://ned.ipac.caltech.edu/level5/index.html){:target="_blank"}

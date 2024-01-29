@@ -21,6 +21,8 @@ Galaxy dynamics and fluid dynamics.
 - Graduate [Numerical Hydrodynamics](http://www.astro.yale.edu/vdbosch/Numerical_Hydrodynamics.pdf){:target="_blank"} by Frank van den Bosch
 - Materials from the [2023 CCA Fluid Dynamics Summer School](https://users.flatironinstitute.org/~parmitage/FluidsSchool.html){:target="_blank"}
 - Hydrodynamics lecture notes from the University of Maryland's [ASTR 670: The ISM and Gas Dynamics](http://www.benediktdiemer.com/wp-content/uploads/astr670_hydro_notes.pdf){:target="_blank"} by Benedikt Diemer
+- Course notes from the University of Zurich's advanced undergraduate/master's-level [Theoretical Astrophysics](https://www.astro.princeton.edu/~rt3504/ewExternalFiles/course_notes.pdf){:target="_blank"} by Romain Teyssier
+- Direct download of Romain Teyssier's course notes on [Continuum Mechanics](https://www.astro.princeton.edu/~rt3504/km_2013_lectures.tar){:target="_blank"}
 
 ## Visualizations
 - [@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter, [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
