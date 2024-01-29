@@ -6,7 +6,7 @@ title: Computational Methods
 Computational methods, astrostatistics, machine learning, visualization, and general coding.
 
 ## Courses
-- [Machine Learning for Physics and Astronomy](https://openlearning.flatironinstitute.org/courses/course-v1:cca+ML_01+A/about){:target="_blank"} through the CCA Flatiron Institute
+- [Machine Learning for Physics and Astronomy](https://openlearning.flatironinstitute.org/courses/course-v1:cca+ML_01+A/about){:target="_blank"} through the Flatiron CCA
 
 ## Textbooks
 - [Python for Astronomers](https://prappleizer.github.io){:target="_blank"} by Imad Pasha and Chris Agostino
