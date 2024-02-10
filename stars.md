@@ -6,6 +6,7 @@ title: Stars
 ## Textbooks
 - [Notes on Stellar Astrophysics](https://mavdisk.mnsu.edu/wp5884kt/nsa/){:target="_blank"} by James N. Pierce
 - [Stellar Astrophysics](https://web.pa.msu.edu/people/ebrown/docs/stellar-notes.pdf){:target="_blank"} by Edward Brown (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
+- [Stellar Atmospheres](https://www.astro.uvic.ca/~tatum/stellatm.html){:target="_blank"} by Jeremy Tatum
 
 ## Lecture Notes + Materials
 - Utrecht University's graduate [Stellar structure and evolution](https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/){:target="_blank"} by Onno Pols
