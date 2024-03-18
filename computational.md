@@ -38,6 +38,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Statistics and Machine Learning for Astronomy lecture videos](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5){:target="_blank"} and [course website](https://www.computeastro.com){:target="_blank"} for Australia National University's ASTR 4004/8008: Astronomical computing by Yuan-Sen Ting
 - Direct download of Romain Teyssier's course notes in [Scientific Computing](https://www.astro.princeton.edu/~rt3504/ewExternalFiles/lecture_notes_APC523.tar.gz){:target="_blank"}
 - Direct download of Romain Teyssier's course notes for [Computational Astrophysics](https://www.astro.princeton.edu/~rt3504/comp_astro_lectures.tar){:target="_blank"} for PhD students
+- Yale University's [Astro Research Preparation Series](https://astro-rps.github.io){:target="_blank"}
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}

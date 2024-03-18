@@ -14,6 +14,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green
 - [Particle Acceleration at Shocks: An Introduction](https://arxiv.org/abs/2307.00284){:target="_blank"} by Damiano Caprioli
+- [Particle acceleration in pulsars and pulsar wind nebulae](https://arxiv.org/abs/2402.10912){:target="_blank"} by Elena Amato
 <!-- - [A Walk-Through of AGN Country -- for the somewhat initiated!](https://arxiv.org/abs/2308.04621) by Robert R. J. Antonucci -->
 
 ## Visualizations
