@@ -24,6 +24,8 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
 - [Scientific Computing Toolbox](https://faculty1.coloradocollege.edu/~sburns/toolbox/index.html){:target="_blank"} by Shane Burns (see also [Linear Fitting](https://faculty1.coloradocollege.edu/~sburns/LinearFitting/index.html){:target="_blank"})
 - [MacOSX Unix Tutorials](https://faculty1.coloradocollege.edu/~sburns/UnixTutorial/index.html){:target="_blank"} by Shane Burns
+- Notes from Stanford KIPAC's graduate [Physics 366: Statistical Methods in Astrophysics](https://kipac.github.io/StatisticalMethods/){:target="_blank"} (also on [GitHub](https://github.com/KIPAC/StatisticalMethods?tab=readme-ov-file){:target="_blank"})
+- Notes from Stanford KIPAC's [Physics 89L: Introduction to Data Analysis, with Python and Jupyter](https://github.com/KIPAC/Physics89L){:target="_blank"}
 
 
 ## Lecture Materials + Course Notes
@@ -39,6 +41,8 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Direct download of Romain Teyssier's course notes in [Scientific Computing](https://www.astro.princeton.edu/~rt3504/ewExternalFiles/lecture_notes_APC523.tar.gz){:target="_blank"}
 - Direct download of Romain Teyssier's course notes for [Computational Astrophysics](https://www.astro.princeton.edu/~rt3504/comp_astro_lectures.tar){:target="_blank"} for PhD students
 - Yale University's [Astro Research Preparation Series](https://astro-rps.github.io){:target="_blank"}
+- Slides from University of Wisconsin-Madison's undergraduate [Machine Learning in Physics](https://ai.physics.wisc.edu/teaching/){:target="_blank"} by Moritz Münchmeyer
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
+- [A Review of Unsupervised Learning in Astronomy](https://arxiv.org/abs/2406.17316){:target="_blank"} by Sotiria Fotopoulou

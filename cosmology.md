@@ -3,7 +3,8 @@ layout: page
 title: Cosmology
 ---
 
-<!-- ## Textbooks -->
+## Textbooks
+- [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/Workbook){:target="_blank"} by Lloyd Knox; based on Physics 156 at the University of California, Davis
 
 ## Notebooks + Tutorials
 - Materials from the [CMB Analysis Summer School](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool){:target="_blank"} by Jeff McMahon and Renée Hložek
@@ -15,6 +16,8 @@ title: Cosmology
 - [Lecture Notes in Cosmology](https://arxiv.org/abs/1803.00070){:target="_blank"} by Oliver F. Piattella
 - [The expanding universe: an introduction](https://arxiv.org/abs/1712.10315){:target="_blank"} by Markus Pössel
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
+- [CMB and Large Scale Structure Tutorials](http://background.uchicago.edu/index.html){:target="_blank"} by Wayne Hu
+- Lecture notes from graduate [Computational Cosmology](https://munchmeyer.physics.wisc.edu/lecture-notes/){:target="_blank"} at the University of Wisconsin-Madison by Moritz Münchmeyer
 
 ## Visualizations
 - [The Hunt for Dark Matter](https://gravitational-lensing.explored.info){:target="_blank"} -- interactive gravitational lensing demo

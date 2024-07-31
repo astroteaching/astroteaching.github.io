@@ -12,6 +12,7 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Handbook of Space Astronomy and Astrophysics](https://ads.harvard.edu/books/hsaa/toc.html){:target="_blank"} by Martin V. Zombeck
 - [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"} (also on [GitHub](https://github.com/Open-Astrophysics-Bookshelf){:target="_blank"}) -- "A collection of open-licensed 'living' textbooks on topics in astrophysics" -- maintained by Michael Zingale
 - [Astronomy as a Field: A Guide for Aspiring Astrophysicists](https://arxiv.org/abs/2312.04041){:target="_blank"} from SIRIUS B
+- [Space science textbooks](https://open.uapress.arizona.edu/projects/project-collection/spacescience?collectionOrder=spacescience) from the University of Arizona Press Open Arizona initiative
 
 ## Lecture Notes + Materials
 - [Astrophysics I](https://www.mit.edu/~iancross/8901_2019A/astrophysics_lecture_notes_2019_Crossfield.pdf){:target="_blank"} lecture notes from Ian Cross's MIT 8.901 course
@@ -32,6 +33,8 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - PhET [blackbody simulator](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html){:target="_blank"}
 - [ViewSpace interactives](https://viewspace.org/interactives/unveiling_invisible_universe){:target="_blank"}
 - Various [visualizations](https://astro.unl.edu/mobile/){:target="_blank"} by Astronomy Education at the University of Nebraska-Lincoln
+- [Cosmic Data Stories](https://www.cosmicds.cfa.harvard.edu/data-stories){:target="_blank"} from the Harvard-Smithsonian CfA
+- NASA's [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home){:target="_blank"}
 
 ## Other Resources
 - [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"
@@ -47,3 +50,4 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [AstroPix](https://www.astropix.org){:target="_blank"} -- easily browsable astronomical images
 - [NASA Community College Network](https://nccn.seti.org){:target="_blank"}
 - [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- compilation of astronomy research talks by David Hendriks
+- [Taotie](https://taotie.readthedocs.io/en/latest/index.html){:target="_blank"} by Song Huang, which compiles research resources of all kinds
