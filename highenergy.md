@@ -21,6 +21,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 ## Visualizations
 - [Gravitational wave observational coverage](https://twitter.com/AstronomyMag/status/697817041806360577){:target="_blank"} from Astronomy Magazine
 - Interactive duration-luminosity phase space of transients and variables in the [optical](http://ashleyvillar.com/dlps){:target="_blank"} by Ashley Villar and the [X-ray](https://avapolzin.github.io/projects/xraydlps/){:target="_blank"} by Ava Polzin
+- [Schwarzschild trajectories](https://rreusser.github.io/schwarzschild-spacetime/){:target="_blank"} by Ricky Reusser ([+ other interactives/visualizations](https://rreusser.github.io/sketches/){:target="_blank"})
 
 <!-- https://arxiv.org/search/?query=Handbook+of+X-ray+and+Gamma-ray+Astrophysics&searchtype=all&source=header -->
 

@@ -20,9 +20,11 @@ General astronomy (including some resources for lower level courses), (astro)phy
 ## Recorded Talk Series
 - [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_){:target="_blank"}
 - [Aspen Center for Physics Physics Colloquia and Public Lectures](https://www.youtube.com/@AspenPhysics){:target="_blank"}
+- [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- compilation of astronomy research talks by David Hendriks
 - [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars){:target="_blank"} and [public talks](https://www.youtube.com/@CaltechAstro){:target="_blank"}
 - [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos){:target="_blank"}
-- [Harvard | Smithsonian Center for Astrophysics Colloquia](https://www.youtube.com/@cfacolloquium3139){:target="_blank"}
+- [Harvard-Smithsonian Center for Astrophysics Colloquia](https://www.youtube.com/@cfacolloquium3139){:target="_blank"}
+- [Harvard-Smithsonian CfA Institute for Theory and Computation talks](https://www.youtube.com/channel/UCTuACIrLKPTlp6XMZbeipig/videos){:target="_blank"}
 - [Kavli Institute for Theoretical Physics talks](https://www.youtube.com/@KITP_UCSB){:target="_blank"}
 - [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag){:target="_blank"}
 - [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk){:target="_blank"}
@@ -51,5 +53,4 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - Harvard [Natural Sciences Laboratory Demonstrations](https://sciencedemonstrations.fas.harvard.edu/catalog){:target="_blank"}
 - [AstroPix](https://www.astropix.org){:target="_blank"} -- easily browsable astronomical images
 - [NASA Community College Network](https://nccn.seti.org){:target="_blank"}
-- [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- compilation of astronomy research talks by David Hendriks
 - [Taotie](https://taotie.readthedocs.io/en/latest/index.html){:target="_blank"} by Song Huang, which compiles research resources of all kinds

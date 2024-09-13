@@ -5,6 +5,7 @@ title: Cosmology
 
 ## Textbooks
 - [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/Workbook){:target="_blank"} by Lloyd Knox; based on Physics 156 at the University of California, Davis
+- [Big Bang Nucleosynthesis](https://arxiv.org/abs/2409.06015){:target="_blank"} (Cooke) chapter from the Encyclopedia of Astrophysics
 
 ## Notebooks + Tutorials
 - Materials from the [CMB Analysis Summer School](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool){:target="_blank"} by Jeff McMahon and Renée Hložek
