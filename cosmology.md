@@ -19,6 +19,7 @@ title: Cosmology
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
 - [CMB and Large Scale Structure Tutorials](http://background.uchicago.edu/index.html){:target="_blank"} by Wayne Hu
 - Lecture notes from graduate [Computational Cosmology](https://munchmeyer.physics.wisc.edu/lecture-notes/){:target="_blank"} at the University of Wisconsin-Madison by Moritz Münchmeyer
+- Lectures on ["Cosmological Correlations"](https://github.com/ddbaumann/cosmo-correlators){:target="_blank"} by Daniel Baumann and Austin Joyce
 
 ## Visualizations
 - [The Hunt for Dark Matter](https://gravitational-lensing.explored.info){:target="_blank"} -- interactive gravitational lensing demo
