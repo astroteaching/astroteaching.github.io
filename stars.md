@@ -7,7 +7,7 @@ title: Stars
 - [Notes on Stellar Astrophysics](https://mavdisk.mnsu.edu/wp5884kt/nsa/){:target="_blank"} by James N. Pierce
 - [Stellar Astrophysics](https://web.pa.msu.edu/people/ebrown/docs/stellar-notes.pdf){:target="_blank"} by Edward Brown (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [Stellar Atmospheres](https://www.astro.uvic.ca/~tatum/stellatm.html){:target="_blank"} by Jeremy Tatum
-- [Asteroseismology](https://arxiv.org/abs/2410.01715){:target="_blank"} (Bowman & Bugnet), [Star Formation](https://arxiv.org/abs/2409.03371){:target="_blank"} (Kuruwita et al.), [Stellar Atmospheres](https://arxiv.org/abs/2409.03329){:target="_blank"} (Puls et al.), and [Wolf-Rayet Stars](https://arxiv.org/abs/2410.04436){:target="_blank"} (Shenar) chapters from the Encyclopedia of Astrophysics
+- [Asteroseismology](https://arxiv.org/abs/2410.01715){:target="_blank"} (Bowman & Bugnet), [Spectral classification](https://arxiv.org/abs/2410.07301){:target="_blank"} (Apellániz et al.), [Star Formation](https://arxiv.org/abs/2409.03371){:target="_blank"} (Kuruwita et al.), [Stellar Atmospheres](https://arxiv.org/abs/2409.03329){:target="_blank"} (Puls et al.), and [Wolf-Rayet Stars](https://arxiv.org/abs/2410.04436){:target="_blank"} (Shenar) chapters from the Encyclopedia of Astrophysics
 
 ## Lecture Notes + Materials
 - Utrecht University's graduate [Stellar structure and evolution](https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/){:target="_blank"} by Onno Pols
