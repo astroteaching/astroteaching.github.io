@@ -5,11 +5,12 @@ title: Cosmology
 
 ## Textbooks
 - [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/Workbook){:target="_blank"} by Lloyd Knox; based on Physics 156 at the University of California, Davis
-- [Big Bang Nucleosynthesis](https://arxiv.org/abs/2409.06015){:target="_blank"} (Cooke) chapter from the Encyclopedia of Astrophysics
+- [Big Bang Nucleosynthesis](https://arxiv.org/abs/2409.06015){:target="_blank"} (Cooke), [Cosmology with Fast Radio Bursts](https://arxiv.org/abs/2410.24072){:target="_blank"} (Glowacki & Lee), and [Cosmology with HI](https://arxiv.org/abs/2411.08113){:target="_blank"} (Padmanabhan) chapters from the Encyclopedia of Astrophysics
 
 ## Notebooks + Tutorials
 - Materials from the [CMB Analysis Summer School](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool){:target="_blank"} by Jeff McMahon and Renée Hložek
 - Joe Zuntz's [materials](https://github.com/joezuntz/michigan){:target="_blank"} from the University of Michigan Cosmology Summer School
+- [Methods for CMB map analysis](https://arxiv.org/abs/2410.12951){:target="_blank"} -- Sullivan, Hergt, & Scott 2024
 
 ## Lecture Notes + Materials 
 - Yale's undergraduate [ASTR 170: Introduction to Cosmology](http://www.astro.yale.edu/vdbosch/Introduction_to_Cosmology.pdf){:target="_blank"} for non-science majors by Frank van den Bosch

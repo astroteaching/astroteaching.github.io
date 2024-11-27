@@ -18,6 +18,7 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 - Interstellar medium lecture notes from the University of Maryland's [ASTR 670: The ISM and Gas Dynamics](http://www.benediktdiemer.com/wp-content/uploads/astr670_ism_notes.pdf){:target="_blank"} by Benedikt Diemer
 - Graduate (and advanced undergraduate) PH 365: Galaxies and the Interstellar Medium -- [lecture videos](https://www.youtube.com/playlist?list=PLJxtWIpdsZWqUNY4pPT3KtR1rB6GaWkRw){:target="_blank"} and [slides + assignments](https://indianinstituteofscience-my.sharepoint.com/personal/prateek_iisc_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fprateek%5Fiisc%5Fac%5Fin%2FDocuments%2FTeachingFiles%2FGalaxiesAndISM2023%2D24&ga=1){:target="_blank"} -- by Prateek Sharma at IISc Bangalore
 - [The multiphase circumgalactic medium and its relation to galaxies: an observational perspective](https://arxiv.org/abs/2409.00174){:target="_blank"} lecture notes by Michele Fumagalli from "The Circum-Galactic Medium Across Cosmic Time: An Observational and Modeling Challenge: Saas-Fee Advanced Course 52"
+- [The Multi-Scale Multi-Phase Circumgalactic Medium: Observed and Simulated](https://arxiv.org/abs/2411.07988){:target="_blank"} lecture notes by Celine Peroux and Dylan Nelson for the 52nd Saas-Fee Advanced School
 
 ## Visualizations
 - [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different view of the Milky Way using various references (may require some poking around to find all of the different maps)
