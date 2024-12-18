@@ -7,6 +7,7 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 
 ## Textbooks
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org){:target="_blank"} by Jo Bovy
+- [The Circumgalactic Medium](https://arxiv.org/abs/2412.10579){:target="_blank"} (Chen & Zahedy), [The Milky Way Bulge](https://arxiv.org/abs/2412.01607){:target="_blank"} (Zoccali & Valenti), [Milky Way Disk](https://arxiv.org/abs/2412.12252){:target="_blank"} (Kawata et al.) chapters in the Encyclopedia of Astrophysics
 
 ## Tutorials + Notebooks
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})

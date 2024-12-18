@@ -7,6 +7,7 @@ title: Observational Methods
 - [Astronomical observations: a guide for allied researchers](https://astro.theoj.org/article/7651-astronomical-observations-a-guide-for-allied-researchers){:target="_blank"} by Pauline Barmby
 - [A Beginner's Guide to Working with Astronomical Data](https://astro.theoj.org/article/11638-a-beginner-s-guide-to-working-with-astronomical-data){:target="_blank"} by Markus Pössel
 - [A Practical Guide to Observational Astronomy](https://faculty1.coloradocollege.edu/~sburns/courses/18-19/pc362/PracticalObsAstro.pdf){:target="_blank"} by Shane Burns
+- [Basic Stellar Observables](https://arxiv.org/abs/2412.05671){:target='_blank'} (Mahy) chapter from the Encyclopedia of Astrophysics
 
 ## Notebooks + Tutorials
 - [PSF/far field pattern tutorial](https://github.com/McMahonCosmologyGroup/cmbInstrumentSummerSchool/blob/main/Notebook3_bonus_optics.ipynb){:target="_blank"} from the CMB Instrument Summer School by Grace Chesmore and Jeff McMahon

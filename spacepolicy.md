@@ -18,3 +18,4 @@ Terrestrial light pollution/artificial light at night, astronautics/aerospace, p
 - [DarkSky International](https://darksky.org){:target="_blank"}
 - [Astronomers for Planet Earth](https://astronomersforplanet.earth){:target="_blank"}
 - [Physicists Coalition for Nuclear Threat Reduction](https://physicistscoalition.org){:target="_blank"}
+- [Overview of Indigenous rights and outer space for the IAU-CPS Policy Hub](https://arxiv.org/abs/2412.06675){:target="_blank"} by Hilding Neilson

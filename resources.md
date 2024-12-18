@@ -22,13 +22,16 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Aspen Center for Physics Physics Colloquia and Public Lectures](https://www.youtube.com/@AspenPhysics){:target="_blank"}
 - [Astrotalks](https://dhendriks.gitlab.io/astrotalks/index.html){:target="_blank"} -- compilation of astronomy research talks by David Hendriks
 - [Caltech Astro Seminars](https://www.youtube.com/@CaltechAstroSeminars){:target="_blank"} and [public talks](https://www.youtube.com/@CaltechAstro){:target="_blank"}
+- [Cambridge University Astronomy](https://www.youtube.com/@cambridge_astro){:target="_blank"}
 - [Cork Astronomy Club](https://www.youtube.com/@corkastronomyclub/videos){:target="_blank"}
 - [Harvard-Smithsonian Center for Astrophysics Colloquia](https://www.youtube.com/@cfacolloquium3139){:target="_blank"}
 - [Harvard-Smithsonian CfA Institute for Theory and Computation talks](https://www.youtube.com/channel/UCTuACIrLKPTlp6XMZbeipig/videos){:target="_blank"}
+- [Kavli Institute for Particle Astrophysics and Cosmology lectures](https://www.youtube.com/@kipac){:target="_blank"}
 - [Kavli Institute for Theoretical Physics talks](https://www.youtube.com/@KITP_UCSB){:target="_blank"}
 - [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag){:target="_blank"}
 - [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk){:target="_blank"}
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures){:target="_blank"}
+- [University of Arizona Theoretical Astrophysics Program](https://www.youtube.com/@tapuniversityofarizona){:target="_blank"}
 - [Virtual Astronomy Software Talks](https://vast-seminars.github.io){:target="_blank"}
 - [Space Telescope Science Institute recorded talks](https://www.youtube.com/@stsciresearch6722/featured){:target="_blank"}
 

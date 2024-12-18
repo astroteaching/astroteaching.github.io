@@ -19,7 +19,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 <!-- - [A Walk-Through of AGN Country -- for the somewhat initiated!](https://arxiv.org/abs/2308.04621) by Robert R. J. Antonucci -->
 - Graduate PH 362: Radiative Processes in Astrophysics -- [lecture videos](https://www.youtube.com/playlist?list=PLJxtWIpdsZWoZXd5hNXA_Vq335WFmPqjr){:target="_blank"} and [notes, assignments, + exams](https://indianinstituteofscience-my.sharepoint.com/personal/prateek_iisc_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fprateek%5Fiisc%5Fac%5Fin%2FDocuments%2FTeachingFiles%2FRadiativeProcesses&ga=1){:target="_blank"} -- by Prateek Sharma at IISc Bangalore
 - [Cambridge Lectures on the Standard Model](https://arxiv.org/abs/2409.09211){:target="_blank"} by Fernando Quevedo and Andreas Schachner, produced for Part III of the Cambridge Mathematical Tripos
-- Complete course notes, assignments and exams for [General Relativity](https://cdn.prod.website-files.com/65c089cfdfce11a0392e5c42/67469a196f855821380fffa4_GR-2024.pdf){:target="_blank"} by Daniel Baumann
+- Complete course notes, assignments, and exams for [General Relativity](https://cdn.prod.website-files.com/65c089cfdfce11a0392e5c42/67469a196f855821380fffa4_GR-2024.pdf){:target="_blank"} by Daniel Baumann
 
 ## Visualizations
 - [Gravitational wave observational coverage](https://twitter.com/AstronomyMag/status/697817041806360577){:target="_blank"} from Astronomy Magazine
