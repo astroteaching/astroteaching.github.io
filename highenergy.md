@@ -11,6 +11,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [A Beginner's Guide to Black Hole Imaging and Associated Tests of General Relativity](https://arxiv.org/abs/2402.01290){:target="_blank"} by Lupsasca et al.
 - [Observed Gravitational-Wave Populations](https://arxiv.org/abs/2410.19145){:target="_blank"} (Callister) and [Type Ia supernovae](https://arxiv.org/abs/2411.09740){:target="_blank"} (Blondin) chapters from the Encyclopedia of Astrophysics
+- [Space-based Ultra-High Energy Cosmic-Ray Experiments](https://arxiv.org/abs/2501.05569){:target="_blank"} (Krizmanic)
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green

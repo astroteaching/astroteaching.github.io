@@ -28,6 +28,7 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Harvard-Smithsonian CfA Institute for Theory and Computation talks](https://www.youtube.com/channel/UCTuACIrLKPTlp6XMZbeipig/videos){:target="_blank"}
 - [Kavli Institute for Particle Astrophysics and Cosmology lectures](https://www.youtube.com/@kipac){:target="_blank"}
 - [Kavli Institute for Theoretical Physics talks](https://www.youtube.com/@KITP_UCSB){:target="_blank"}
+- [NASA Diffuse Gase in Cosmic Ecosystems Science Interest Group seminars](https://www.youtube.com/@NASA_DGCE_SIGSeminars-be2gn){:target="_blank"}
 - [Northwestern University Center for Interdisciplinary Exploration and Research in Astrophysics](https://www.youtube.com/channel/UCWNBCI6-SsnoNKXJ-in8Zag){:target="_blank"}
 - [Royal Astronomical Society](https://www.youtube.com/@RasOrgUk){:target="_blank"}
 - [Texas A&M Physics & Astronomy Talks](https://www.youtube.com/@TAMUPhysAstrLectures){:target="_blank"}
