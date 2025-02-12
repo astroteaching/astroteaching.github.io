@@ -8,10 +8,11 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 ## Courses
 - [Machine Learning for Physics and Astronomy](https://openlearning.flatironinstitute.org/courses/course-v1:cca+ML_01+A/about){:target="_blank"} through the Flatiron CCA
 
-## Textbooks
+## Textbooks + Longer Articles
 - [Python for Astronomers](https://prappleizer.github.io){:target="_blank"} by Imad Pasha and Chris Agostino
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){:target="_blank"} by Jake VanderPlas
 - [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book){:target="_blank"} by Nicolas P. Rougier
+- [Hydrodynamic methods and sub-resolution models for cosmological simulations](https://arxiv.org/abs/2502.06954){:target="_blank"} (Valentini & Dolag) chapter from the Numerical Simulations in Cosmology in the Encyclopedia of Cosmology
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions
