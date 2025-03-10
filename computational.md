@@ -13,6 +13,9 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){:target="_blank"} by Jake VanderPlas
 - [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book){:target="_blank"} by Nicolas P. Rougier
 - [Hydrodynamic methods and sub-resolution models for cosmological simulations](https://arxiv.org/abs/2502.06954){:target="_blank"} (Valentini & Dolag) chapter from the Numerical Simulations in Cosmology in the Encyclopedia of Cosmology
+- [Dive into Deep Learning](https://d2l.ai/index.html){:target="_blank"} (Zhang, Lipton, Li, & Smola)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html){:target="_blank"} by Michael Nielsen
+- [How to set up your first machine learning project in astronomy](https://arxiv.org/abs/2502.08222){:target="_blank"} (Buchner & Fotopoulou)
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions
