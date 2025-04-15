@@ -5,9 +5,9 @@ title: Galaxies
 
 Galaxies, galaxy formation and evolution, and stellar populations.
 
-## Textbooks
+## Textbooks + Longer Articles
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org){:target="_blank"} by Jo Bovy
-- [The Circumgalactic Medium](https://arxiv.org/abs/2412.10579){:target="_blank"} (Chen & Zahedy), [Cosmic quenching](https://arxiv.org/abs/2502.01724){:target="_blank"} (De Lucia et al.), [The Milky Way Bulge](https://arxiv.org/abs/2412.01607){:target="_blank"} (Zoccali & Valenti), [Milky Way Disk](https://arxiv.org/abs/2412.12252){:target="_blank"} (Kawata et al.), [Morphological Classification of Galaxies](https://arxiv.org/abs/2502.09610){:target="_blank"} (Masters), [The satellite galaxies of the Milky Way and Andromeda](https://arxiv.org/abs/2502.06948){:target="_blank"} (Doliva-Dolinsky, Collins, & Martin), [Semi-empirical Models of Galaxy Formation and Evolution](https://arxiv.org/abs/2502.12764){:target="_blank"} (Lapi, Boco, & Shankar), and [The Spectral Energy Distributions of Galaxies](https://arxiv.org/abs/2502.17680){:target="_blank"} (Iyer et al.) chapters in the Encyclopedia of Astrophysics
+- [The Chemical Evolution of Galaxies](https://arxiv.org/abs/2504.08933){:target="_blank"} (Curti), [The Circumgalactic Medium](https://arxiv.org/abs/2412.10579){:target="_blank"} (Chen & Zahedy), [Cosmic quenching](https://arxiv.org/abs/2502.01724){:target="_blank"} (De Lucia et al.), [The Formation of Globular Clusters](https://arxiv.org/abs/2501.16438){:target="_blank"} (Kruijssen), [The Interstellar Medium](https://arxiv.org/abs/2504.01410){:target="_blank"} (Saintonge), [Gas in Galaxies](https://arxiv.org/abs/2504.08103){:target="_blank"} (Leroy & Bolatto), [The Milky Way Bulge](https://arxiv.org/abs/2412.01607){:target="_blank"} (Zoccali & Valenti), [Milky Way Disk](https://arxiv.org/abs/2412.12252){:target="_blank"} (Kawata et al.), [Morphological Classification of Galaxies](https://arxiv.org/abs/2502.09610){:target="_blank"} (Masters), [Observations of the First Galaxies in the Era of JWST](https://arxiv.org/abs/2501.17078){:target="_blank"} (Stark et al.), [The satellite galaxies of the Milky Way and Andromeda](https://arxiv.org/abs/2502.06948){:target="_blank"} (Doliva-Dolinsky, Collins, & Martin), [Semi-empirical Models of Galaxy Formation and Evolution](https://arxiv.org/abs/2502.12764){:target="_blank"} (Lapi, Boco, & Shankar), and [The Spectral Energy Distributions of Galaxies](https://arxiv.org/abs/2502.17680){:target="_blank"} (Iyer et al.) chapters in the Encyclopedia of Astrophysics
 
 ## Tutorials + Notebooks
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
@@ -22,7 +22,7 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 - [The Multi-Scale Multi-Phase Circumgalactic Medium: Observed and Simulated](https://arxiv.org/abs/2411.07988){:target="_blank"} lecture notes by Celine Peroux and Dylan Nelson for the 52nd Saas-Fee Advanced School
 
 ## Visualizations
-- [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different view of the Milky Way using various references (may require some poking around to find all of the different maps)
+- [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different views of the Milky Way using various references (may require some poking around to find all of the different maps)
 - Video of the [Lyman alpha forest](https://www.youtube.com/watch?v=6Bn7Ka0Tjjw){:target="_blank"} in an expanding universe
 
 ## Additional Resources

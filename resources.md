@@ -43,11 +43,11 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - Various [visualizations](https://astro.unl.edu/mobile/){:target="_blank"} by Astronomy Education at the University of Nebraska-Lincoln
 - [Cosmic Data Stories](https://www.cosmicds.cfa.harvard.edu/data-stories){:target="_blank"} from the Harvard-Smithsonian CfA
 - NASA's [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home){:target="_blank"}
+- Various [interactives](https://astromcc.github.io/visualizations/astro-viz.html){:target="_blank"} by Kevin Healy
 
 ## Other Resources
 - [Stellarium](https://stellarium.org){:target="_blank"}, "a free open source planetarium for your computer"
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html){:target="_blank"}
-- Legacy Survey [viewer](https://www.legacysurvey.org/viewer){:target="_blank"}
 - [Firefly](http://firefly.rcs.northwestern.edu){:target="_blank"}, an interactive web-based particle viewer by Aaron Geller and Alex Gurvich
 - [Multiwavelength Astronomy](https://ecuip.lib.uchicago.edu/multiwavelength-astronomy/index.html){:target="_blank"} from the University of Chicago's eCUIP Digital Library collection (*Note: These resources were developed for high school classrooms rather than college classrooms.*)
 - [Crash Course Astronomy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL){:target="_blank"} -- video lessons from Phil Plait
@@ -58,3 +58,5 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [AstroPix](https://www.astropix.org){:target="_blank"} -- easily browsable astronomical images
 - [NASA Community College Network](https://nccn.seti.org){:target="_blank"}
 - [Taotie](https://taotie.readthedocs.io/en/latest/index.html){:target="_blank"} by Song Huang, which compiles research resources of all kinds
+
+In addition to the resoures linked here -- and throughout [astroteaching.github.io](https://astroteaching.github.io) -- there are sitew with other materials not specifically developed for pedagogy that may be useful in the classroom: e.g., [Annual Reviews in Astronomy & Astrophysics](https://www.annualreviews.org/content/journals/astro){:target="_blank"}, [Legacy Survey viewer](https://www.legacysurvey.org/viewer){:target="_blank"}, [JADES interactive map](https://jades.idies.jhu.edu/?ra=53.1460236&dec=-27.7924835&zoom=3){:target="_blank"}

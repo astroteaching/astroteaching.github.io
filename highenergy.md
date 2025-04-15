@@ -10,7 +10,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [The Nanohertz Gravitational Wave Astronomer](https://arxiv.org/abs/2105.13270){:target="_blank"} by Stephen R. Taylor
 - [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [A Beginner's Guide to Black Hole Imaging and Associated Tests of General Relativity](https://arxiv.org/abs/2402.01290){:target="_blank"} by Lupsasca et al.
-- [Core-collapse supernovae](https://arxiv.org/abs/2503.01321){:target = "_blank"}(Jerkstrand, Milisavjlevic, & Müller), [Magnetars](https://arxiv.org/abs/2503.04442){:target="_blank"} (Rea & De Grandis), [Observed Gravitational-Wave Populations](https://arxiv.org/abs/2410.19145){:target="_blank"} (Callister), [Primordial Black Holes](https://arxiv.org/abs/2502.15279){:target="_blank"} (Carr & Kuhnel), and [Type Ia supernovae](https://arxiv.org/abs/2411.09740){:target="_blank"} (Blondin) chapters from the Encyclopedia of Astrophysics
+- [Core-collapse supernovae](https://arxiv.org/abs/2503.01321){:target = "_blank"}(Jerkstrand, Milisavljevic, & Müller), [Magnetars](https://arxiv.org/abs/2503.04442){:target="_blank"} (Rea & De Grandis), [Observed Gravitational-Wave Populations](https://arxiv.org/abs/2410.19145){:target="_blank"} (Callister), [Primordial Black Holes](https://arxiv.org/abs/2502.15279){:target="_blank"} (Carr & Kuhnel), and [Type Ia supernovae](https://arxiv.org/abs/2411.09740){:target="_blank"} (Blondin) chapters from the Encyclopedia of Astrophysics
 - [Space-based Ultra-High Energy Cosmic-Ray Experiments](https://arxiv.org/abs/2501.05569){:target="_blank"} (Krizmanic)
 - [Ultrahigh energy cosmic rays and neutrino flux models](https://arxiv.org/abs/2502.11834){:target="_blank"} (Stein Muzzio) chapter in "Radio detection of ultra-high energy neutrino and cosmic rays" from the International Radio Neutrino & Cosmic Ray Astronomy Workshop
 
@@ -27,6 +27,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Gravitational wave observational coverage](https://twitter.com/AstronomyMag/status/697817041806360577){:target="_blank"} from Astronomy Magazine
 - Interactive duration-luminosity phase space of transients and variables in the [optical](http://ashleyvillar.com/dlps){:target="_blank"} by Ashley Villar and the [X-ray](https://avapolzin.github.io/projects/xraydlps/){:target="_blank"} by Ava Polzin
 - [Schwarzschild trajectories](https://rreusser.github.io/schwarzschild-spacetime/){:target="_blank"} by Ricky Reusser ([+ other interactives/visualizations](https://rreusser.github.io/sketches/){:target="_blank"})
+- [Black hole orbit + gravitational wave interactive](https://zoomwhirl.herokuapp.com){:target="_blank"} by Steven Pakiela et al.
 
 <!-- https://arxiv.org/search/?query=Handbook+of+X-ray+and+Gamma-ray+Astrophysics&searchtype=all&source=header -->
 

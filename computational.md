@@ -16,6 +16,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Dive into Deep Learning](https://d2l.ai/index.html){:target="_blank"} (Zhang, Lipton, Li, & Smola)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html){:target="_blank"} by Michael Nielsen
 - [How to set up your first machine learning project in astronomy](https://arxiv.org/abs/2502.08222){:target="_blank"} (Buchner & Fotopoulou)
+- [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668){:target="_blank"} (Younes)
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions
@@ -28,9 +29,6 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
 - [Scientific Computing Toolbox](https://faculty1.coloradocollege.edu/~sburns/toolbox/index.html){:target="_blank"} by Shane Burns (see also [Linear Fitting](https://faculty1.coloradocollege.edu/~sburns/LinearFitting/index.html){:target="_blank"})
 - [MacOSX Unix Tutorials](https://faculty1.coloradocollege.edu/~sburns/UnixTutorial/index.html){:target="_blank"} by Shane Burns
-- Notes from Stanford KIPAC's graduate [Physics 366: Statistical Methods in Astrophysics](https://kipac.github.io/StatisticalMethods/){:target="_blank"} (also on [GitHub](https://github.com/KIPAC/StatisticalMethods?tab=readme-ov-file){:target="_blank"})
-- Notes from Stanford KIPAC's [Physics 89L: Introduction to Data Analysis, with Python and Jupyter](https://github.com/KIPAC/Physics89L){:target="_blank"}
-
 
 ## Lecture Materials + Course Notes
 - Yale's senior undergraduate [ASTR 330: Scientific Computing in Astrophysics](https://astro-330.github.io/intro.html){:target="_blank"} by Imad Pasha and Marla Geha
@@ -46,6 +44,8 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Direct download of Romain Teyssier's course notes for [Computational Astrophysics](https://www.astro.princeton.edu/~rt3504/comp_astro_lectures.tar){:target="_blank"} for PhD students
 - Yale University's [Astro Research Preparation Series](https://astro-rps.github.io){:target="_blank"}
 - Slides from University of Wisconsin-Madison's undergraduate [Machine Learning in Physics](https://ai.physics.wisc.edu/teaching/){:target="_blank"} by Moritz Münchmeyer
+- Notes from Stanford KIPAC's graduate [Physics 366: Statistical Methods in Astrophysics](https://kipac.github.io/StatisticalMethods/){:target="_blank"} (also on [GitHub](https://github.com/KIPAC/StatisticalMethods?tab=readme-ov-file){:target="_blank"})
+- Notes from Stanford KIPAC's [Physics 89L: Introduction to Data Analysis, with Python and Jupyter](https://github.com/KIPAC/Physics89L){:target="_blank"}
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}

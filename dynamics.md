@@ -10,6 +10,7 @@ Galaxy dynamics and fluid dynamics.
 - [Astrophysical Processes](https://github.com/Open-Astrophysics-Bookshelf/astrophysical_processes_notes/blob/master/astrophysical_processes_notes.pdf){:target="_blank"} by Jeremy Heyl (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [Introduction to Computational Astrophysical Hydrodynamcis](http://open-astrophysics-bookshelf.github.io/numerical_exercises/CompHydroTutorial.pdf){:target="_blank"} by Michael Zingale (part of the [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io){:target="_blank"})
 - [Celestial Mechanics](https://www.astro.uvic.ca/~tatum/celmechs.html){:target="_blank"} by Jeremy Tatum
+- [Modified Newtonian Dynamics (MOND)](https://arxiv.org/abs/2501.17006){:target="_blank"} (Famaey & Durakovic) chapter in the Encyclopedia of Astrophysics
 
 ## Tutorials + Notebooks
 - Jeremy Bailin's [Galaxy Dynamics Experiments](https://github.com/jbailinua/GalaxyDynamicsExperiments){:target="_blank"} notebooks from AY 630 at the University of Alabama
