@@ -13,6 +13,7 @@ Exoplanets and planetary science.
 - [Current Theories of Lunar Ice](https://arxiv.org/abs/2502.06056){:target="_blank"} (Schorghofer)
 - [Titan's Fluvial and Lacustrine Landscapes](https://arxiv.org/abs/2502.02556){:target="_blank"} (Birch, Hayes, & Perron) chapter from "Titan after Cassini-Huygens"
 - [Solar System Elemental Abundances from the Solar Photosphere and CI-Chondrites](https://arxiv.org/abs/2502.10575){:target="_blank"} (Lodders, Bergemann, & Palme)
+- [Ice Giants](https://arxiv.org/abs/2504.18219){:target = "_blank"} (Helled) chapter from the Encyclopedia of Planetary Science 
 
 ## Lecture Notes + Materials
 - [An Introduction to High Contrast Differential Imaging of Exoplanets and Disks](https://arxiv.org/abs/2308.01354){:target="_blank"} by Katherine B. Follette
