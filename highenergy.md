@@ -30,4 +30,5 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Black hole orbit + gravitational wave interactive](https://zoomwhirl.herokuapp.com){:target="_blank"} by Steven Pakiela et al.
 
 <!-- https://arxiv.org/search/?query=Handbook+of+X-ray+and+Gamma-ray+Astrophysics&searchtype=all&source=header -->
+<!-- https://arxiv.org/abs/2505.07061 -->
 

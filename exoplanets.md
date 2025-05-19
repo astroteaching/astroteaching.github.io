@@ -14,6 +14,7 @@ Exoplanets and planetary science.
 - [Titan's Fluvial and Lacustrine Landscapes](https://arxiv.org/abs/2502.02556){:target="_blank"} (Birch, Hayes, & Perron) chapter from "Titan after Cassini-Huygens"
 - [Solar System Elemental Abundances from the Solar Photosphere and CI-Chondrites](https://arxiv.org/abs/2502.10575){:target="_blank"} (Lodders, Bergemann, & Palme)
 - [Ice Giants](https://arxiv.org/abs/2504.18219){:target = "_blank"} (Helled) chapter from the Encyclopedia of Planetary Science 
+- [Diversity of Exoplanets](https://arxiv.org/abs/2505.09754){:target="_blank"} (Valencia, Moro-Martin, & Teske)
 
 ## Lecture Notes + Materials
 - [An Introduction to High Contrast Differential Imaging of Exoplanets and Disks](https://arxiv.org/abs/2308.01354){:target="_blank"} by Katherine B. Follette
