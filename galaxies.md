@@ -21,9 +21,10 @@ Galaxies, galaxy formation and evolution, and stellar populations.
 - [The multiphase circumgalactic medium and its relation to galaxies: an observational perspective](https://arxiv.org/abs/2409.00174){:target="_blank"} lecture notes by Michele Fumagalli from "The Circum-Galactic Medium Across Cosmic Time: An Observational and Modeling Challenge: Saas-Fee Advanced Course 52"
 - [The Multi-Scale Multi-Phase Circumgalactic Medium: Observed and Simulated](https://arxiv.org/abs/2411.07988){:target="_blank"} lecture notes by Celine Peroux and Dylan Nelson for the 52nd Saas-Fee Advanced School
 
-## Visualizations
+## Visualizations + Interactives
 - [Galaxy Map](http://galaxymap.org){:target="_blank"} by Kevin Jardine -- includes many different views of the Milky Way using various references (may require some poking around to find all of the different maps)
 - Video of the [Lyman alpha forest](https://www.youtube.com/watch?v=6Bn7Ka0Tjjw){:target="_blank"} in an expanding universe
+- [`pipes_vis`](https://github.com/HinLeung622/pipes_vis){:target="_blank"} ([Leung et al. 2021](https://iopscience.iop.org/article/10.3847/2515-5172/ac1680){:target="_blank"}) -- interactive SED modeling
 
 ## Additional Resources
 - ["A Knowledgebase for Extragalactic Astronomy and Cosmology"](https://ned.ipac.caltech.edu/level5/index.html){:target="_blank"}

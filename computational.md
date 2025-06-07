@@ -17,6 +17,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html){:target="_blank"} by Michael Nielsen
 - [How to set up your first machine learning project in astronomy](https://arxiv.org/abs/2502.08222){:target="_blank"} (Buchner & Fotopoulou)
 - [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668){:target="_blank"} (Younes)
+- [Astrocomputing: From Raw Data to Science Discovery](https://github.com/ebks/astrocomputing/blob/main/book.md){:target="_blank"} by Luciano Silva
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions
@@ -50,3 +51,4 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
 - [A Review of Unsupervised Learning in Astronomy](https://arxiv.org/abs/2406.17316){:target="_blank"} by Sotiria Fotopoulou
+- [ULULA: An ultra-lightweight 2D hydrodynamics code for teaching and experimentation](https://arxiv.org/abs/2505.20399){:target="_blank"} by Benedikt Diemer

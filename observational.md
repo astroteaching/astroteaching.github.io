@@ -9,6 +9,7 @@ title: Observational Methods
 - [A Practical Guide to Observational Astronomy](https://faculty1.coloradocollege.edu/~sburns/courses/18-19/pc362/PracticalObsAstro.pdf){:target="_blank"} by Shane Burns
 - [Basic Stellar Observables](https://arxiv.org/abs/2412.05671){:target='_blank'} (Mahy), [Observing Binaries](https://arxiv.org/abs/2504.00548){:target="_blank"} (Sana & Vrancken), and [The Spectral Energy Distributions of Galaxies](https://arxiv.org/abs/2502.17680){:target="_blank"} (Iyer et al.) chapters from the Encyclopedia of Astrophysics
 - [High-Contrast Imaging: Playing Hide and Seek with Exoplanets](https://arxiv.org/abs/2501.07976){:target="_blank"} (Claudi & Mesa)
+- [High-Contrast Coronography](https://arxiv.org/abs/2506.02907){:target="_blank"} (Kenworthy & Haffert) and [associated code](https://github.com/mkenworthy/ARAA_HCC){:target="_blank"}
 
 ## Notebooks + Tutorials
 - [PSF/far field pattern tutorial](https://github.com/McMahonCosmologyGroup/cmbInstrumentSummerSchool/blob/main/Notebook3_bonus_optics.ipynb){:target="_blank"} from the CMB Instrument Summer School by Grace Chesmore and Jeff McMahon

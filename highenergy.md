@@ -13,6 +13,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Core-collapse supernovae](https://arxiv.org/abs/2503.01321){:target = "_blank"}(Jerkstrand, Milisavljevic, & Müller), [Magnetars](https://arxiv.org/abs/2503.04442){:target="_blank"} (Rea & De Grandis), [Observed Gravitational-Wave Populations](https://arxiv.org/abs/2410.19145){:target="_blank"} (Callister), [Primordial Black Holes](https://arxiv.org/abs/2502.15279){:target="_blank"} (Carr & Kuhnel), [Pulsar Timing Arrays](https://arxiv.org/abs/2505.00797){:target="_blank"} (Kelley) and [Type Ia supernovae](https://arxiv.org/abs/2411.09740){:target="_blank"} (Blondin) chapters from the Encyclopedia of Astrophysics
 - [Space-based Ultra-High Energy Cosmic-Ray Experiments](https://arxiv.org/abs/2501.05569){:target="_blank"} (Krizmanic)
 - [Ultrahigh energy cosmic rays and neutrino flux models](https://arxiv.org/abs/2502.11834){:target="_blank"} (Stein Muzzio) chapter in "Radio detection of ultra-high energy neutrino and cosmic rays" from the International Radio Neutrino & Cosmic Ray Astronomy Workshop
+- [Superfluid Dark Matter](https://arxiv.org/abs/2505.23900){:target="_blank"} (Berezhiani et al.)
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green
