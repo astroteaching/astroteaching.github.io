@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
 title: Data
----
+--- -->
 
 One immense benefit of astronomy being a global venture is that most of our data are, or will become, publicly accessible. As the rest of this site, this page is not an attempt to be comprehensive, but rather is intended to aggregate the locations of large datasets, simulations, and models, which may be of use in assignment or project planning especially for those who are teaching outside of their immediate field of expertise.
 

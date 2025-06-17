@@ -18,6 +18,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [How to set up your first machine learning project in astronomy](https://arxiv.org/abs/2502.08222){:target="_blank"} (Buchner & Fotopoulou)
 - [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668){:target="_blank"} (Younes)
 - [Astrocomputing: From Raw Data to Science Discovery](https://github.com/ebks/astrocomputing/blob/main/book.md){:target="_blank"} by Luciano Silva
+- [Statistical Machine Learning for Astronomy -- A Textbook](https://arxiv.org/abs/2506.12230){:target="_blank"} by Yuan-Sen Ting
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions

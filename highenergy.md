@@ -14,6 +14,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Space-based Ultra-High Energy Cosmic-Ray Experiments](https://arxiv.org/abs/2501.05569){:target="_blank"} (Krizmanic)
 - [Ultrahigh energy cosmic rays and neutrino flux models](https://arxiv.org/abs/2502.11834){:target="_blank"} (Stein Muzzio) chapter in "Radio detection of ultra-high energy neutrino and cosmic rays" from the International Radio Neutrino & Cosmic Ray Astronomy Workshop
 - [Superfluid Dark Matter](https://arxiv.org/abs/2505.23900){:target="_blank"} (Berezhiani et al.)
+- [The History of Primordial Black Holes](https://arxiv.org/abs/2406.05736){:target="_blank"} (Carr & Green) chapter from Primordial Black Holes
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green
