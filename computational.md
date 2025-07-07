@@ -48,6 +48,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Slides from University of Wisconsin-Madison's undergraduate [Machine Learning in Physics](https://ai.physics.wisc.edu/teaching/){:target="_blank"} by Moritz Münchmeyer
 - Notes from Stanford KIPAC's graduate [Physics 366: Statistical Methods in Astrophysics](https://kipac.github.io/StatisticalMethods/){:target="_blank"} (also on [GitHub](https://github.com/KIPAC/StatisticalMethods?tab=readme-ov-file){:target="_blank"})
 - Notes from Stanford KIPAC's [Physics 89L: Introduction to Data Analysis, with Python and Jupyter](https://github.com/KIPAC/Physics89L){:target="_blank"}
+- Materials from the [Astrostatistics in Crete](https://github.com/astrostatistics-in-crete){:target="_blank"} summer schools
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
