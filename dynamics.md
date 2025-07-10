@@ -27,7 +27,7 @@ Galaxy dynamics and fluid dynamics.
 - Direct download of Romain Teyssier's course notes on [Continuum Mechanics](https://www.astro.princeton.edu/~rt3504/km_2013_lectures.tar){:target="_blank"}
 
 ## Visualizations
-- [@threebodybot.bsky.social](https://bsky.app/profile/threebodybot.bsky.social){:target="_blank"} on Bluesky -- or the currently inactive[@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter and [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
+- [@threebodybot.bsky.social](https://bsky.app/profile/threebodybot.bsky.social){:target="_blank"} on Bluesky (see more from Kirk Long on [GitHub](https://github.com/kirklong/ThreeBodyBot){:target="_blank"}) -- or the currently inactive[@ThreeBodyBot](https://twitter.com/ThreeBodyBot){:target="_blank"} on Twitter and [@ThreeBodyBot@botsin.space](https://botsin.space/@ThreeBodyBot){:target="_blank"} on Mastodon
 - [Various N-body dynamics visualizations](https://vanderbei.princeton.edu/WebGL/nBody.html){:target="_blank"} by Robert Vanderbei
 - [Interactive Poincaré section visualizer](https://duetosymmetry.com/tool/poincare-section-clicker-toy/){:target="_blank"} by Leo Stein
 

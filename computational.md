@@ -31,6 +31,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Lectures and tutorials from the 10-week KITP program [Building a Physical Understanding of Galaxy Evolution with Data-Driven Astronomy](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials){:target="_blank"} led by Tjitske Starkenburg, Francisco Villaescusa-Navarro, Peter Behroozi, and John Wu ([overall program here](https://datadrivengalaxyevolution.github.io){:target="_blank"})
 - [Scientific Computing Toolbox](https://faculty1.coloradocollege.edu/~sburns/toolbox/index.html){:target="_blank"} by Shane Burns (see also [Linear Fitting](https://faculty1.coloradocollege.edu/~sburns/LinearFitting/index.html){:target="_blank"})
 - [MacOSX Unix Tutorials](https://faculty1.coloradocollege.edu/~sburns/UnixTutorial/index.html){:target="_blank"} by Shane Burns
+- [REACHpy](https://github.com/ciera-Northwestern/reachpy){:target="_blank"} Python and data science tutorials from Northwestern University's Research Experiences in Astronomy at CIERA for High School Students program
 
 ## Lecture Materials + Course Notes
 - Yale's senior undergraduate [ASTR 330: Scientific Computing in Astrophysics](https://astro-330.github.io/intro.html){:target="_blank"} by Imad Pasha and Marla Geha
