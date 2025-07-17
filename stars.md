@@ -21,5 +21,6 @@ Stellar astrophysics and heliophysics.
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
 - Notes and materials from UC Santa Cruz's graduate [Astronomy 220C: Advanced Stages of Stellar Evolution and Nucleosynthesis](https://www.ucolick.org/~woosley/){:target="_blank"} by Stan Woosley
 
-## Visualizations
+## Visualizations + Interactives
 - Interactive Las Cumbres Observatory [Star in a Box](https://starinabox.lco.global/#){:target="_blank"}
+- [`gaiacmds`](https://github.com/avapolzin/goodenough_gaia_cmds) -- good enough simple membership selection to recover color-magnitude diagrams with easy overplotting of isochrones for use in the classroom (by Ava Polzin)
