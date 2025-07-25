@@ -15,6 +15,9 @@ Exoplanets and planetary science.
 - [Solar System Elemental Abundances from the Solar Photosphere and CI-Chondrites](https://arxiv.org/abs/2502.10575){:target="_blank"} (Lodders, Bergemann, & Palme)
 - [Ice Giants](https://arxiv.org/abs/2504.18219){:target = "_blank"} (Helled) chapter from the Encyclopedia of Planetary Science 
 - [Diversity of Exoplanets](https://arxiv.org/abs/2505.09754){:target="_blank"} (Valencia, Moro-Martin, & Teske)
+- [Volatiles](https://arxiv.org/abs/2507.13116){:target="_blank"} (Mandt et al.) chapter from the book Centaurs
+- [Exoplaneteers Keep Overestimating Sigma Significances](https://arxiv.org/abs/2506.05392){:target="_blank"} (Kipping & Benneke)
+- [Venus Cloud Research: Progress and Perspectives](https://arxiv.org/abs/2506.06164){:target="_blank"} (Dai et al.)
 
 ## Lecture Notes + Materials
 - [An Introduction to High Contrast Differential Imaging of Exoplanets and Disks](https://arxiv.org/abs/2308.01354){:target="_blank"} by Katherine B. Follette

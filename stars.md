@@ -13,6 +13,7 @@ Stellar astrophysics and heliophysics.
 - [Physics of mid- and low-mass stars with solar-type activity and their impact on exoplanetary environments](https://arxiv.org/abs/2411.11898){:target="_blank"} by Gershberg, Kleeorin, Pustilnik, Airapetian, and Shlyapnikov
 - [Ultracool dwarfs in Gaia](https://arxiv.org/abs/2502.06198){:target="_blank"} by Reylé from Ecole Evry Schatzman 2023: Stellar physics with Gaia
 - [Wolf-Rayet Stars -- what we know and what we don't](https://arxiv.org/abs/2412.05772){:target="_blank"} by Olga Maryeva
+- [Solar Wind Origin](https://arxiv.org/abs/2507.13460){:target="_blank"} (Cranmer) from the Oxford Research Encyclopedia of Physics
 
 ## Lecture Notes + Materials
 - Utrecht University's graduate [Stellar structure and evolution](https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/){:target="_blank"} by Onno Pols
