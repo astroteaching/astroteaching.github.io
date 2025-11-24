@@ -56,4 +56,4 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
 - [A Review of Unsupervised Learning in Astronomy](https://arxiv.org/abs/2406.17316){:target="_blank"} by Sotiria Fotopoulou
 - [ULULA: An ultra-lightweight 2D hydrodynamics code for teaching and experimentation](https://arxiv.org/abs/2505.20399){:target="_blank"} by Benedikt Diemer
-- [Texnique](https://texnique.xyz){:target='_blank'} game to test LaTeX math mode capability (especially good coupled with [Detexify](https://detexify.kirelabs.org/classify.html){:target="_blank"})
+- [TeXnique](https://texnique.xyz){:target='_blank'} game to test LaTeX math mode capability (especially good coupled with [Detexify](https://detexify.kirelabs.org/classify.html){:target="_blank"} and/or the Matthias Heinkenschloss's LaTeX math [cheatsheet](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf){:target="_blank"})
