@@ -19,6 +19,7 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668){:target="_blank"} (Younes)
 - [Astrocomputing: From Raw Data to Science Discovery](https://github.com/ebks/astrocomputing/blob/main/book.md){:target="_blank"} by Luciano Silva
 - [Statistical Machine Learning for Astronomy -- A Textbook](https://arxiv.org/abs/2506.12230){:target="_blank"} by Yuan-Sen Ting
+- [Fisher Matrix for Beginners](https://arxiv.org/abs/2510.09683){:target="_blank"} by David Wittman
 
 ## Tutorials + Notebooks
 - Resources from the [LSSTC Data Science Fellowship Program](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions){:target="_blank"} sessions
@@ -55,3 +56,4 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}
 - [A Review of Unsupervised Learning in Astronomy](https://arxiv.org/abs/2406.17316){:target="_blank"} by Sotiria Fotopoulou
 - [ULULA: An ultra-lightweight 2D hydrodynamics code for teaching and experimentation](https://arxiv.org/abs/2505.20399){:target="_blank"} by Benedikt Diemer
+- [Texnique](https://texnique.xyz){:target='_blank'} game to test LaTeX math mode capability (especially good coupled with [Detexify](https://detexify.kirelabs.org/classify.html){:target="_blank"})

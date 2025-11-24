@@ -16,6 +16,7 @@ General astronomy (including some resources for lower level courses), (astro)phy
 
 ## Lecture Notes + Materials
 - [Astrophysics I](https://www.mit.edu/~iancross/8901_2019A/astrophysics_lecture_notes_2019_Crossfield.pdf){:target="_blank"} lecture notes from Ian Cross's MIT 8.901 course
+- Lecture videos from [ASTR 121 - The Solar System](https://www.youtube.com/playlist?list=PLrxcsj8mQirBeZX6ETyopKJzCbky9jGWD) at the University of Oregon by Yvette Cendes
 
 ## Recorded Talk Series
 - [AAS Journal Author Series](https://www.youtube.com/playlist?list=PLFhVT3VzlwKrArGdcNhtSCF4NbDBd6K5_){:target="_blank"}
