@@ -19,6 +19,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Cosmic Rays on Galaxy Scales: Progress and Pitfalls for CR-MHD Dynamical Models](https://arxiv.org/abs/2509.07104){:target="_blank"} (Hopkins)
 - [Neutrinos from core-collapse supernovae](https://arxiv.org/abs/2509.16306){:target="_blank"} (Raffelt, Janka, & Fiorillo) chapter from the Encyclopedia of Particle Physics
 - [Multi-messenger Gravitational Lensing](https://arxiv.org/abs/2503.19973){:target="_blank"} (Smith et al.)
+- [Nuclear astrophysics](https://arxiv.org/abs/2601.12508){:target="_blank"} (Diehl & Wiescher)
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green

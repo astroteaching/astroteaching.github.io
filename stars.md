@@ -14,6 +14,7 @@ Stellar astrophysics and heliophysics.
 - [Ultracool dwarfs in Gaia](https://arxiv.org/abs/2502.06198){:target="_blank"} by Reylé from Ecole Evry Schatzman 2023: Stellar physics with Gaia
 - [Wolf-Rayet Stars -- what we know and what we don't](https://arxiv.org/abs/2412.05772){:target="_blank"} by Olga Maryeva
 - [Solar Wind Origin](https://arxiv.org/abs/2507.13460){:target="_blank"} (Cranmer) from the Oxford Research Encyclopedia of Physics
+- [Nuclear astrophysics](https://arxiv.org/abs/2601.12508){:target="_blank"} (Diehl & Wiescher)
 
 ## Lecture Notes + Materials
 - Utrecht University's graduate [Stellar structure and evolution](https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/){:target="_blank"} by Onno Pols
@@ -21,7 +22,7 @@ Stellar astrophysics and heliophysics.
 - [StellarStructure](https://drive.google.com/drive/folders/1XApdgc0qiLuUoI6X7o_8GHFhcUp5PtF7){:target="_blank"} by Nikolina (Niko) Šarčević
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
 - Notes and materials from UC Santa Cruz's graduate [Astronomy 220C: Advanced Stages of Stellar Evolution and Nucleosynthesis](https://www.ucolick.org/~woosley/){:target="_blank"} by Stan Woosley
-- Course materials from the University of Chicago's 2025 [Physics of Stars: An Introduction](https://github.com/avapolzin/ASTR11901_Summer2025){:target="_blank"} by Ava Polzin and Bricker Ostler
+- Course materials from the University of Chicago's 2025 [ASTR 11901: Physics of Stars: An Introduction](https://github.com/avapolzin/ASTR11901_Summer2025){:target="_blank"} by Ava Polzin and Bricker Ostler
 
 ## Visualizations + Interactives
 - Interactive Las Cumbres Observatory [Star in a Box](https://starinabox.lco.global/#){:target="_blank"}

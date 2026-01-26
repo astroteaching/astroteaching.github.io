@@ -29,6 +29,7 @@ title: Cosmology
 - [Interactive visualizations](https://dkirkby.github.io/cosmo-demo/){:target="_blank"} by David Kirkby
 - [Video illustrations](https://www.youtube.com/playlist?list=PL7OMoi4OS2cxFlneU57--8iCOf6bESH9c){:target="_blank"} by David Kirkby
 - [Colossus Cosmology Calculator](https://colossus.astro.umd.edu){:target="_blank"} by Erik Chou and Benedikt Diemer
+- [CosmoSlider](https://aarhuscosmology.github.io/CosmoSliderWeb/){:target="_blank"} CMB power spectrum interactive by [Nygaard, Hannestad, & Tram](https://arxiv.org/abs/2601.16919){:Target="_blank"}
 
 ## Other Resources
 - Comprehensive site linking to [talks, lectures, notes/materials, and more](https://jrdmb.netlify.app){:target="_blank"} by @jrdmb
