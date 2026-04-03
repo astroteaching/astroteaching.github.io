@@ -51,6 +51,8 @@ Computational methods, astrostatistics, machine learning, visualization, and gen
 - Notes from Stanford KIPAC's graduate [Physics 366: Statistical Methods in Astrophysics](https://kipac.github.io/StatisticalMethods/){:target="_blank"} (also on [GitHub](https://github.com/KIPAC/StatisticalMethods?tab=readme-ov-file){:target="_blank"})
 - Notes from Stanford KIPAC's [Physics 89L: Introduction to Data Analysis, with Python and Jupyter](https://github.com/KIPAC/Physics89L){:target="_blank"}
 - Materials from the [Astrostatistics in Crete](https://github.com/astrostatistics-in-crete){:target="_blank"} summer schools
+- [Lecture notes](https://github.com/UMN-Big-Data-in-Astrophysics/ast8581_2025_Spring){:target="_blank"} from Michael Coughlin's AST 8581: Big Data in Astrophysics at the University of Minnesota
+- Materials from Davide Garosa's masters-level [Astrostatistics and Machine Learning](https://github.com/dgerosa/astrostatistics_bicocca_2026){:target="_blank"} course at the University of Milano-Bicocca
 
 ## Other Resources
 - [Matplotlib cheatsheets](https://matplotlib.org/cheatsheets/){:target="_blank"}

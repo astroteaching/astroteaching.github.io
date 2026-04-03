@@ -23,6 +23,7 @@ Stellar astrophysics and heliophysics.
 - [Problem sets](https://github.com/nikosarcevic/PhysicsProblemSets#astro){:target="_blank"} by Nikolina (Niko) Šarčević
 - Notes and materials from UC Santa Cruz's graduate [Astronomy 220C: Advanced Stages of Stellar Evolution and Nucleosynthesis](https://www.ucolick.org/~woosley/){:target="_blank"} by Stan Woosley
 - Course materials from the University of Chicago's 2025 [ASTR 11901: Physics of Stars: An Introduction](https://github.com/avapolzin/ASTR11901_Summer2025){:target="_blank"} by Ava Polzin and Bricker Ostler
+- [Stellar Physics Across the HR Diagram with Gaia](https://arxiv.org/abs/2504.17361){:target="_blank"} lecture notes from the Ecole Evry Schatzman 2023 by Orlagh L. Creevey
 
 ## Visualizations + Interactives
 - Interactive Las Cumbres Observatory [Star in a Box](https://starinabox.lco.global/#){:target="_blank"}

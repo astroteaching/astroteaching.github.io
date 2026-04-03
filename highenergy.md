@@ -20,6 +20,7 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 - [Neutrinos from core-collapse supernovae](https://arxiv.org/abs/2509.16306){:target="_blank"} (Raffelt, Janka, & Fiorillo) chapter from the Encyclopedia of Particle Physics
 - [Multi-messenger Gravitational Lensing](https://arxiv.org/abs/2503.19973){:target="_blank"} (Smith et al.)
 - [Nuclear astrophysics](https://arxiv.org/abs/2601.12508){:target="_blank"} (Diehl & Wiescher)
+- [γ-Ray Lines -- Signatures of Nucleosynthesis, Cosmic Rays, Positron Annihilation, and Fundamental Physics](https://arxiv.org/abs/2602.04592){:target="_blank"} (Siegert et al.)
 
 ## Lecture Materials + Course Notes
 - Notes from UCSD's [Physics 161: Black Holes](https://www.dropbox.com/s/761qjkxftmmpz7k/Black_Holes_complete.pdf?dl=0){:target="_blank"} by Daniel Green
@@ -38,4 +39,5 @@ High energy and gravitational wave astrophysics, transient astrophysics, and ast
 
 <!-- https://arxiv.org/search/?query=Handbook+of+X-ray+and+Gamma-ray+Astrophysics&searchtype=all&source=header -->
 <!-- https://arxiv.org/abs/2505.07061 -->
-
+<!-- https://arxiv.org/abs/2602.20472 -->
+<!-- https://arxiv.org/abs/2603.13813 -->
