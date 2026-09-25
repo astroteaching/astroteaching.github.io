@@ -22,6 +22,8 @@ title: Exoplanets
 - [Observations of Exocomets](https://arxiv.org/abs/2603.19978){:target="_blank"} (Korth et al.)
 
 <!-- https://arxiv.org/abs/2510.21895; https://arxiv.org/abs/2510.22915 -->
+<!-- https://arxiv.org/abs/2604.09042 -->
+<!-- https://arxiv.org/abs/2609.24645 -->
 
 ## Lecture Notes + Materials
 - [An Introduction to High Contrast Differential Imaging of Exoplanets and Disks](https://arxiv.org/abs/2308.01354){:target="_blank"} by Katherine B. Follette
@@ -31,3 +33,4 @@ title: Exoplanets
 - [Transit detection](https://upload.wikimedia.org/wikipedia/commons/8/88/Exoplanet_transit_method.gif){:target="_blank"} by Alysa Obertas (dark mode [here](https://commons.wikimedia.org/wiki/File:Exoplanet_transit_method_dark.gif){:target="_blank"})
 - Various TESS and Kepler [visualizations](https://www.ethankruse.com/dataviz.php){:target="_blank"} by Ethan Kruse
 - Plots of [all transiting exoplanets/their systems](https://davidrrice.github.io/ExoSystemPlot/exoplanetplots.html){:target="_blank"} by David R. Rice
+- [Methods and analysis visualizations](https://aspolanski.github.io/#visualization){:target="_blank"} by Alex Polanski
