@@ -38,6 +38,7 @@ General astronomy (including some resources for lower level courses), (astro)phy
 - [Space Telescope Science Institute recorded talks](https://www.youtube.com/@stsciresearch6722/featured){:target="_blank"}
 
 ## Visualizations
+- [Space Atlas](https://spaceatlasedu.org/){:target="_blank"} — free conceptual models of Moon phases, Earth seasons, and cosmic scales for instructor-led introductory demonstrations; uses GA4 and AdSense, and direct browsing by under-13s is not cleared.
 - [Animations](https://zingale.github.io/astro_animations/){:target="_blank"} from Michael Zingale
 - PhET [blackbody simulator](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html){:target="_blank"}
 - [ViewSpace interactives](https://viewspace.org/interactives/unveiling_invisible_universe){:target="_blank"}
